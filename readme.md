@@ -4,6 +4,7 @@
 ![image](https://img.shields.io/badge/HTML-Tailwind_CSS-orange)
 ![image](https://img.shields.io/badge/Project-PAYTM_Clone-blue)
 
+[Live Link](https://tiny-valkyrie-82c774.netlify.app/)
 
 ##  What did I learn by making this project?
 
